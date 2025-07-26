@@ -22,7 +22,7 @@ To identify and understand key factors influencing **cart abandonment** in onlin
 
 ## 📸 Dashboard Preview
 
-![Cart Dashboard Overview](screenshots/cart_dashboard_overview.png)
+![Cart Dashboard Overview](Screenshot.png)
 
 
 
